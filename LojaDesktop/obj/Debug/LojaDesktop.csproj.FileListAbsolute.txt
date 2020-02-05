@@ -1,0 +1,10 @@
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\bin\Debug\LojaDesktop.exe.config
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\bin\Debug\LojaDesktop.exe
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\bin\Debug\LojaDesktop.pdb
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.csprojAssemblyReference.cache
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.Properties.Resources.resources
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.csproj.GenerateResource.cache
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.exe
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.pdb
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.FormLogin.resources
+E:\Estudo\CSharpDesktop\LojaDesktop\LojaDesktop\obj\Debug\LojaDesktop.UIWindows.FormUsuarios.resources
